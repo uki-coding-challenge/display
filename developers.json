@@ -1,0 +1,506 @@
+{
+    "developers": [
+        {
+            "username": "1",
+            "tier0": true,
+            "tier1": true,
+            "tier2": true
+          },{
+            "username": "2",
+            "tier0": true,
+            "tier1": true,
+            "tier2": true
+          },{
+            "username": "3",
+            "tier0": true,
+            "tier1": true,
+            "tier2": true
+          },{
+            "username": "4",
+            "tier0": true,
+            "tier1": true,
+            "tier2": true
+          },{
+            "username": "5",
+            "tier0": true,
+            "tier1": true,
+            "tier2": true
+          },{
+            "username": "6",
+            "tier0": true,
+            "tier1": true,
+            "tier2": true
+          },{
+            "username": "7",
+            "tier0": true,
+            "tier1": true,
+            "tier2": true
+          },{
+            "username": "8",
+            "tier0": true,
+            "tier1": true,
+            "tier2": true
+          },{
+            "username": "9",
+            "tier0": true,
+            "tier1": true,
+            "tier2": true
+          },{
+            "username": "10",
+            "tier0": true,
+            "tier1": true,
+            "tier2": true
+          },{
+            "username": "11",
+            "tier0": true,
+            "tier1": true,
+            "tier2": true
+          },{
+            "username": "12",
+            "tier0": true,
+            "tier1": true,
+            "tier2": true
+          },{
+            "username": "13",
+            "tier0": true,
+            "tier1": true,
+            "tier2": true
+          },{
+            "username": "14",
+            "tier0": true,
+            "tier1": true,
+            "tier2": true
+          },{
+            "username": "15",
+            "tier0": true,
+            "tier1": true,
+            "tier2": true
+          },{
+            "username": "16",
+            "tier0": true,
+            "tier1": true,
+            "tier2": true
+          },{
+            "username": "17",
+            "tier0": true,
+            "tier1": true,
+            "tier2": true
+          },{
+            "username": "18",
+            "tier0": true,
+            "tier1": true,
+            "tier2": true
+          },{
+            "username": "19",
+            "tier0": true,
+            "tier1": true,
+            "tier2": true
+          },{
+            "username": "20",
+            "tier0": true,
+            "tier1": true,
+            "tier2": true
+          },{
+            "username": "21",
+            "tier0": true,
+            "tier1": true,
+            "tier2": true
+          },{
+            "username": "22",
+            "tier0": true,
+            "tier1": true,
+            "tier2": true
+          },{
+            "username": "23",
+            "tier0": true,
+            "tier1": true,
+            "tier2": true
+          },{
+            "username": "24",
+            "tier0": true,
+            "tier1": true,
+            "tier2": true
+          },{
+            "username": "25",
+            "tier0": true,
+            "tier1": true,
+            "tier2": true
+          },{
+            "username": "26",
+            "tier0": true,
+            "tier1": true,
+            "tier2": true
+          },{
+            "username": "27",
+            "tier0": true,
+            "tier1": true,
+            "tier2": true
+          },{
+            "username": "28",
+            "tier0": true,
+            "tier1": true,
+            "tier2": true
+          },{
+            "username": "29",
+            "tier0": true,
+            "tier1": true,
+            "tier2": true
+          },{
+            "username": "30",
+            "tier0": true,
+            "tier1": true,
+            "tier2": true
+          },{
+            "username": "31",
+            "tier0": true,
+            "tier1": true,
+            "tier2": true
+          },{
+            "username": "32",
+            "tier0": true,
+            "tier1": true,
+            "tier2": true
+          },{
+            "username": "33",
+            "tier0": true,
+            "tier1": true,
+            "tier2": true
+          },{
+            "username": "34",
+            "tier0": true,
+            "tier1": true,
+            "tier2": true
+          },{
+            "username": "35",
+            "tier0": true,
+            "tier1": true,
+            "tier2": true
+          },{
+            "username": "36",
+            "tier0": true,
+            "tier1": true,
+            "tier2": true
+          },{
+            "username": "37",
+            "tier0": true,
+            "tier1": true,
+            "tier2": true
+          },{
+            "username": "38",
+            "tier0": true,
+            "tier1": true,
+            "tier2": true
+          },{
+            "username": "39",
+            "tier0": true,
+            "tier1": true,
+            "tier2": true
+          },{
+            "username": "40",
+            "tier0": true,
+            "tier1": true,
+            "tier2": true
+          },{
+            "username": "41",
+            "tier0": true,
+            "tier1": true,
+            "tier2": true
+          },{
+            "username": "42",
+            "tier0": true,
+            "tier1": true,
+            "tier2": true
+          },{
+            "username": "43",
+            "tier0": true,
+            "tier1": true,
+            "tier2": true
+          },{
+            "username": "44",
+            "tier0": true,
+            "tier1": true,
+            "tier2": true
+          },{
+            "username": "45",
+            "tier0": true,
+            "tier1": true,
+            "tier2": true
+          },{
+            "username": "46",
+            "tier0": true,
+            "tier1": true,
+            "tier2": true
+          },{
+            "username": "47",
+            "tier0": true,
+            "tier1": true,
+            "tier2": true
+          },{
+            "username": "48",
+            "tier0": true,
+            "tier1": true,
+            "tier2": true
+          },{
+            "username": "49",
+            "tier0": true,
+            "tier1": true,
+            "tier2": true
+          },{
+            "username": "50",
+            "tier0": true,
+            "tier1": true,
+            "tier2": true
+          },{
+            "username": "51",
+            "tier0": true,
+            "tier1": true,
+            "tier2": true
+          },{
+            "username": "52",
+            "tier0": true,
+            "tier1": true,
+            "tier2": true
+          },{
+            "username": "53",
+            "tier0": true,
+            "tier1": true,
+            "tier2": true
+          },{
+            "username": "54",
+            "tier0": true,
+            "tier1": true,
+            "tier2": true
+          },{
+            "username": "55",
+            "tier0": true,
+            "tier1": true,
+            "tier2": true
+          },{
+            "username": "56",
+            "tier0": true,
+            "tier1": true,
+            "tier2": true
+          },{
+            "username": "57",
+            "tier0": true,
+            "tier1": true,
+            "tier2": true
+          },{
+            "username": "58",
+            "tier0": true,
+            "tier1": true,
+            "tier2": true
+          },{
+            "username": "59",
+            "tier0": true,
+            "tier1": true,
+            "tier2": true
+          },{
+            "username": "60",
+            "tier0": true,
+            "tier1": true,
+            "tier2": true
+          },{
+            "username": "61",
+            "tier0": true,
+            "tier1": true,
+            "tier2": true
+          },{
+            "username": "62",
+            "tier0": true,
+            "tier1": true,
+            "tier2": true
+          },{
+            "username": "63",
+            "tier0": true,
+            "tier1": true,
+            "tier2": true
+          },{
+            "username": "64",
+            "tier0": true,
+            "tier1": true,
+            "tier2": true
+          },{
+            "username": "65",
+            "tier0": true,
+            "tier1": true,
+            "tier2": true
+          },{
+            "username": "66",
+            "tier0": true,
+            "tier1": true,
+            "tier2": true
+          },{
+            "username": "67",
+            "tier0": true,
+            "tier1": true,
+            "tier2": true
+          },{
+            "username": "68",
+            "tier0": true,
+            "tier1": true,
+            "tier2": true
+          },{
+            "username": "69",
+            "tier0": true,
+            "tier1": true,
+            "tier2": true
+          },{
+            "username": "70",
+            "tier0": true,
+            "tier1": true,
+            "tier2": true
+          },{
+            "username": "71",
+            "tier0": true,
+            "tier1": true,
+            "tier2": true
+          },{
+            "username": "72",
+            "tier0": true,
+            "tier1": true,
+            "tier2": true
+          },{
+            "username": "73",
+            "tier0": true,
+            "tier1": true,
+            "tier2": true
+          },{
+            "username": "74",
+            "tier0": true,
+            "tier1": true,
+            "tier2": true
+          },{
+            "username": "75",
+            "tier0": true,
+            "tier1": true,
+            "tier2": true
+          },{
+            "username": "76",
+            "tier0": true,
+            "tier1": true,
+            "tier2": true
+          },{
+            "username": "77",
+            "tier0": true,
+            "tier1": true,
+            "tier2": true
+          },{
+            "username": "78",
+            "tier0": true,
+            "tier1": true,
+            "tier2": true
+          },{
+            "username": "79",
+            "tier0": true,
+            "tier1": true,
+            "tier2": true
+          },{
+            "username": "80",
+            "tier0": true,
+            "tier1": true,
+            "tier2": true
+          },{
+            "username": "81",
+            "tier0": true,
+            "tier1": true,
+            "tier2": true
+          },{
+            "username": "82",
+            "tier0": true,
+            "tier1": true,
+            "tier2": true
+          },{
+            "username": "83",
+            "tier0": true,
+            "tier1": true,
+            "tier2": true
+          },{
+            "username": "84",
+            "tier0": true,
+            "tier1": true,
+            "tier2": true
+          },{
+            "username": "85",
+            "tier0": true,
+            "tier1": true,
+            "tier2": true
+          },{
+            "username": "86",
+            "tier0": true,
+            "tier1": true,
+            "tier2": true
+          },{
+            "username": "87",
+            "tier0": true,
+            "tier1": true,
+            "tier2": true
+          },{
+            "username": "88",
+            "tier0": true,
+            "tier1": true,
+            "tier2": true
+          },{
+            "username": "89",
+            "tier0": true,
+            "tier1": true,
+            "tier2": true
+          },{
+            "username": "90",
+            "tier0": true,
+            "tier1": true,
+            "tier2": true
+          },{
+            "username": "91",
+            "tier0": true,
+            "tier1": true,
+            "tier2": true
+          },{
+            "username": "92",
+            "tier0": true,
+            "tier1": true,
+            "tier2": true
+          },{
+            "username": "93",
+            "tier0": true,
+            "tier1": true,
+            "tier2": true
+          },{
+            "username": "94",
+            "tier0": true,
+            "tier1": true,
+            "tier2": true
+          },{
+            "username": "95",
+            "tier0": true,
+            "tier1": true,
+            "tier2": true
+          },{
+            "username": "96",
+            "tier0": true,
+            "tier1": true,
+            "tier2": true
+          },{
+            "username": "97",
+            "tier0": true,
+            "tier1": true,
+            "tier2": true
+          },{
+            "username": "98",
+            "tier0": true,
+            "tier1": true,
+            "tier2": true
+          },{
+            "username": "99",
+            "tier0": true,
+            "tier1": true,
+            "tier2": true
+          },{
+            "username": "100",
+            "tier0": true,
+            "tier1": true,
+            "tier2": true
+          }
+        
+    ]
+}
