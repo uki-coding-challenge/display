@@ -24,7 +24,7 @@
     <script src="https://cdn.jsdelivr.net/npm/mustache@4.2.0/mustache.min.js" integrity="sha256-1/0GA1EkYejtvYFoa+rSq4LfM4m5zKI13Z1bQIhI4Co=" crossorigin="anonymous"></script>
     <script>
       $(document).ready(function() {
-        var developers = new EventSource('http://challenge-server:8080/display');
+        var developers = new EventSource('http://coding-challenge-server-coding-challenge.apps.cluster-ae07.ae07.sandbox1648.opentlc.com/display');
 
         developers.onmessage = function(e) {
           onJSON(JSON.parse(e.data));
